@@ -1,0 +1,23 @@
+PODS:
+  - BWWalkthrough (2.1.0)
+  - ImageSlideshow (1.3.0):
+    - ImageSlideshow/Core (= 1.3.0)
+  - ImageSlideshow/Core (1.3.0)
+  - PageMenu (2.0.0)
+  - RAMAnimatedTabBarController (2.0.13)
+
+DEPENDENCIES:
+  - BWWalkthrough
+  - ImageSlideshow (~> 1.3)
+  - PageMenu
+  - RAMAnimatedTabBarController (~> 2.0.13)
+
+SPEC CHECKSUMS:
+  BWWalkthrough: 188408f55b951725ccfd4faa8dab5c577b57c7a9
+  ImageSlideshow: 96e2bb4e6f16f8b682ad5bb41691f463bed58a07
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  RAMAnimatedTabBarController: 2510f3b66954c3f77ea1042a35d34df8f5f3b604
+
+PODFILE CHECKSUM: 0ef8c4c3c3bfed04015b71d996fa5fc2b92a1ff2
+
+COCOAPODS: 1.3.1
